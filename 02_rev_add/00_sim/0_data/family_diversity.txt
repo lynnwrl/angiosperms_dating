@@ -1,0 +1,11 @@
+Family	N_Species
+asteraceae_1	24700
+fabaceae_1	19500
+asteraceae_2	24700
+fabaceae_2	19500
+asteraceae_3	24700
+fabaceae_3	19500
+asteraceae_4	24700
+fabaceae_4	19500
+asteraceae_5	24700
+fabaceae_5	19500

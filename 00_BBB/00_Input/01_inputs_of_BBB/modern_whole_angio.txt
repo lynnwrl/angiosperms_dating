@@ -1,0 +1,11 @@
+Taxa	N_orders
+angiosperms_1	64
+angiosperms_2	64
+angiosperms_3	64
+angiosperms_4	64
+angiosperms_5	64
+angiosperms_6	64
+angiosperms_7	64
+angiosperms_8	64
+angiosperms_9	64
+angiosperms_10	64
